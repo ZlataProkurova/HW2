@@ -5,7 +5,7 @@ void task_one();
 void task_two();
 void task_three();
 void task_four();
-void fifth_task() :
+void fifth_task();
 void task_six();
 void seventh_task();
 void task_eight();
